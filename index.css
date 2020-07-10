@@ -94,6 +94,9 @@ div {
 }
 
 footer {
+    margin-left: 200px;
+    text-align: center;
+    width: 80%;
     background-color: #F9E7DC;
     border-radius: 8px;
 }
